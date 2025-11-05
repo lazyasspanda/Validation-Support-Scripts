@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         Salesforce Case Validation Checklist
-// @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Cloud-integrated validation checklist with manager dashboard
 // @author       Pratik Chabria
@@ -17,6 +16,7 @@
 // @icon         https://www.google.com/s2/favicons?domain=salesforce.com
 // @run-at       document-start
 // ==/UserScript==
+
 (function () {
   "use strict";
   const CURRENT_VERSION = "1.0";
