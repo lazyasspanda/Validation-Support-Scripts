@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Salesforce Case Validation Checklist
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      7.1
 // @description  Cloud-integrated validation checklist with manager dashboard
 // @author       Pratik Chabria
 // @match        https://dealeron.lightning.force.com/*
@@ -21,7 +21,7 @@
   "use strict";
   const CURRENT_VERSION = "1.0";
   const VERSION_URL =
-    "https://raw.githubusercontent.com/lazyasspanda/Validation-Support-Scripts/main/main/version.json";
+    "https://raw.githubusercontent.com/DealerOnGirmada/office-tampermonkey-scripts/main/main/version.json";
   const SCRIPT_URL =
     "https://raw.githubusercontent.com/lazyasspanda/Validation-Support-Scripts/main/main/salesforce-validation-checklist.js";
 
